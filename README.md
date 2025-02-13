@@ -54,7 +54,7 @@ A collection of helpful YouTube resources for learning about machine learning an
 - [Video Title](video-link) - Brief description of the content
 
 ## Github Basics
-- [Github Tutorial Playlist by Kahan Data Solutions](https://youtube.com/playlist?list=PLy4OcwImJzBKzWWb9K_WB3QzaxoiGmxyo&si=OA7UFnxGN8FjIeJE) - Brief description of the content
+- [Github Tutorial Playlist by Kahan Data Solutions](https://youtube.com/playlist?list=PLy4OcwImJzBKzWWb9K_WB3QzaxoiGmxyo&si=OA7UFnxGN8FjIeJE) 
 - [Video Title](video-link) - Brief description of the content
 
 ## Contributing
